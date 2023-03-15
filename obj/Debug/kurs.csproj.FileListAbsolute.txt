@@ -1,0 +1,309 @@
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.Login.resources
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.Main.resources
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\kurs.exe.config
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\kurs.exe
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\kurs.pdb
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\Npgsql.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Buffers.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Memory.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Text.Json.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Threading.Channels.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.ValueTuple.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\Npgsql.xml
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Buffers.xml
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Memory.xml
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Text.Json.xml
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Threading.Channels.xml
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\System.ValueTuple.xml
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.exe
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.pdb
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Vladimir\source\repos\kurs\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.Reference.resources
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.AddReference.resources
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.AddReference3.resources
+C:\Users\Vladimir\source\repos\kurs\obj\Debug\kurs.AddReference2.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\kurs.exe.config
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\kurs.exe
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\kurs.pdb
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\Npgsql.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Buffers.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Memory.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Text.Json.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Threading.Channels.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.ValueTuple.dll
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\Npgsql.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Buffers.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Memory.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Text.Json.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Threading.Channels.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\bin\Debug\System.ValueTuple.xml
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.AddReference3.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.AddReference.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.AddReference2.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.Login.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.Main.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.Reference.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.exe
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.pdb
+E:\KURSACH\kurs\bin\Debug\kurs.exe.config
+E:\KURSACH\kurs\bin\Debug\kurs.exe
+E:\KURSACH\kurs\bin\Debug\kurs.pdb
+E:\KURSACH\kurs\bin\Debug\DocumentFormat.OpenXml.dll
+E:\KURSACH\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\KURSACH\kurs\bin\Debug\Npgsql.dll
+E:\KURSACH\kurs\bin\Debug\System.Buffers.dll
+E:\KURSACH\kurs\bin\Debug\System.Memory.dll
+E:\KURSACH\kurs\bin\Debug\System.Numerics.Vectors.dll
+E:\KURSACH\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\KURSACH\kurs\bin\Debug\System.Text.Encodings.Web.dll
+E:\KURSACH\kurs\bin\Debug\System.Text.Json.dll
+E:\KURSACH\kurs\bin\Debug\System.Threading.Channels.dll
+E:\KURSACH\kurs\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\KURSACH\kurs\bin\Debug\System.ValueTuple.dll
+E:\KURSACH\kurs\bin\Debug\DocumentFormat.OpenXml.xml
+E:\KURSACH\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\KURSACH\kurs\bin\Debug\Npgsql.xml
+E:\KURSACH\kurs\bin\Debug\System.Buffers.xml
+E:\KURSACH\kurs\bin\Debug\System.Memory.xml
+E:\KURSACH\kurs\bin\Debug\System.Numerics.Vectors.xml
+E:\KURSACH\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\KURSACH\kurs\bin\Debug\System.Text.Encodings.Web.xml
+E:\KURSACH\kurs\bin\Debug\System.Text.Json.xml
+E:\KURSACH\kurs\bin\Debug\System.Threading.Channels.xml
+E:\KURSACH\kurs\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\KURSACH\kurs\bin\Debug\System.ValueTuple.xml
+E:\KURSACH\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+E:\KURSACH\kurs\obj\Debug\kurs.AddReference3.resources
+E:\KURSACH\kurs\obj\Debug\kurs.AddReference.resources
+E:\KURSACH\kurs\obj\Debug\kurs.AddReference2.resources
+E:\KURSACH\kurs\obj\Debug\kurs.Login.resources
+E:\KURSACH\kurs\obj\Debug\kurs.Main.resources
+E:\KURSACH\kurs\obj\Debug\kurs.Properties.Resources.resources
+E:\KURSACH\kurs\obj\Debug\kurs.Reference.resources
+E:\KURSACH\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+E:\KURSACH\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+E:\KURSACH\kurs\obj\Debug\kurs.csproj.CopyComplete
+E:\KURSACH\kurs\obj\Debug\kurs.exe
+E:\KURSACH\kurs\obj\Debug\kurs.pdb
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\kurs.exe.config
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\kurs.exe
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\kurs.pdb
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\Npgsql.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Buffers.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Memory.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Text.Json.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Threading.Channels.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.ValueTuple.dll
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\Npgsql.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Buffers.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Memory.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Text.Json.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Threading.Channels.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\bin\Debug\System.ValueTuple.xml
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.AddAlbum.resources
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.AddReference3.resources
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.AddReference.resources
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.AddReference2.resources
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.Login.resources
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.Main.resources
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.Reference.resources
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.exe
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.pdb
+D:\kurs\kurs\bin\Debug\kurs.exe.config
+D:\kurs\kurs\obj\Debug\kurs.exe
+D:\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\Npgsql.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Buffers.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Memory.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Text.Json.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Threading.Channels.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.ValueTuple.dll
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\Npgsql.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Buffers.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Memory.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Text.Json.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Threading.Channels.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Владимир\Downloads\kurs\kurs\bin\Debug\System.ValueTuple.xml
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.AddAlbum.resources
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.AddReference3.resources
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.AddReference.resources
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.AddReference2.resources
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.Login.resources
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.Main.resources
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.Reference.resources
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\Владимир\Downloads\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\Владимир\Desktop\ДонНТУ\KURSACH\kurs\obj\Debug\kurs.Generation.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.AddAlbum.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.Generation.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.ShowAlbum.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.AddShop.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.AddCatalog.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.AddSupply.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.Queries.resources
+C:\Users\Владимир\Desktop\KURSACH\kurs\obj\Debug\kurs.Graphics.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\kurs.exe.config
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\kurs.exe
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\kurs.pdb
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\Npgsql.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Buffers.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Memory.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Text.Json.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Threading.Channels.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.ValueTuple.dll
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\Npgsql.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Buffers.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Memory.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Text.Json.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Threading.Channels.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\bin\Debug\System.ValueTuple.xml
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.AddAlbum.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.AddCatalog.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.AddShop.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.AddReference3.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.AddReference.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.AddReference2.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.AddSupply.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.Generation.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.Graphics.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.Login.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.Main.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.Properties.Resources.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.Queries.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.Reference.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.ShowAlbum.resources
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.csproj.CopyComplete
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.exe
+D:\Users\Asus\Рабочий стол\KURSACH\kurs\obj\Debug\kurs.pdb
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\kurs.exe.config
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\kurs.exe
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\kurs.pdb
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\Npgsql.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Buffers.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Memory.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Text.Json.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Threading.Channels.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.ValueTuple.dll
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\Npgsql.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Buffers.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Memory.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Text.Json.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Threading.Channels.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\bin\Debug\System.ValueTuple.xml
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.AddAlbum.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.AddCatalog.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.AddShop.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.AddReference3.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.AddReference.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.AddReference2.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.AddSupply.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.Generation.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.Graphics.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.Login.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.Main.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.Queries.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.Reference.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.ShowAlbum.resources
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.exe
+C:\Users\Vladimir\Desktop\KURSACH\kurs\obj\Debug\kurs.pdb
